@@ -1,4 +1,5 @@
 // Java provides a triple right shift operator (>>>) that performs an unsigned shift, filling the leftmost bits with 0.
+//Java's >>> is useful for handling unsigned bitwise operations, which C++ lacks.
 
 int x = -8;  // Binary: 1111111111111000 (in 16-bit representation)
 int result = x >>> 2;  // Binary: 0011111111111110

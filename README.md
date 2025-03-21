@@ -34,7 +34,7 @@ public class ThreadExample {
     }
 }
 ```
-###C++: Pointers Example
+### C++: Pointers Example
 ```cpp
 #include <iostream>
 using namespace std;

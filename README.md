@@ -33,3 +33,17 @@ public class ThreadExample {
         t1.start();
     }
 }
+```
+###C++: Pointers Example
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a = 10;
+    int *ptr = &a;
+    cout << "Value of a: " << *ptr << endl; // Dereferencing
+    return 0;
+}
+```
+
